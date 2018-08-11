@@ -1,0 +1,89 @@
+a {
+    color:#f2f7f7;
+    font-size: 14px;
+    font-family: 'futura';
+    display: block;
+    padding: 14px 25px;
+    text-decoration: none;
+}
+li {
+    float: right;
+}
+ul {
+    background-color: grey;
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0;
+    padding-left: 45px;
+    padding-right: 25px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+h1 {
+    margin: 0;
+    padding: 180px 10px;
+    height: 60px;
+    text-align: center;
+    color: yellow;
+    font-size: 72px;
+    font-family: 'futura';
+    background-color: black;
+}
+p {
+    display: inline;
+    font-size: 35px;
+    font-family: 'futura';
+    color: white;
+}
+.aquaMarine {
+    display: inline-block;
+    border-radius: 25px;
+    height: 200px;
+    width: 200px;
+    background: #84FFCF;
+    margin: 75px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    
+}
+.orange {
+   
+    display: inline-block;
+    height: 175px;
+    width: 328px; 
+    background: #FFB756;
+    margin: 75px;
+    margin-left: 75px;
+    margin-top: 20px;
+    padding: 10px;
+   
+    
+}
+
+.bottom {
+  width: 100%;
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.bottom-div {
+  display: inline-block;
+  height: 260px;
+  width: 425px;
+  margin: 75px;
+  margin-top: 10px;
+  border: 5px;
+}
+
+.picBackdrop {
+    background-position: center;
+    background-size: cover;
+}
+#bg {
+    background-image: url(elephant2.jpg);
+}
+
+footer {
+    height: 100px;
+
+}
